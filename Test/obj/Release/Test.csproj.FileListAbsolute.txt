@@ -1,0 +1,9 @@
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\bin\Release\Test.exe.config
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\bin\Release\Test.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\bin\Release\Test.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\obj\Release\Test.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\obj\Release\Test.csproj.CopyComplete
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\obj\Release\Test.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Test\obj\Release\Test.pdb

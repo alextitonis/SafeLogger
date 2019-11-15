@@ -1,0 +1,13 @@
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Release\Safe Logger.exe.config
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Release\Safe Logger.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Release\Safe Logger.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe Logger.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe_Logger.Form1.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe_Logger.Main.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe_Logger.Properties.Resources.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe Logger.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe Logger.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe Logger.csproj.CopyComplete
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe Logger.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Release\Safe Logger.pdb

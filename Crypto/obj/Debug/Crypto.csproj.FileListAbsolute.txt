@@ -1,0 +1,10 @@
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\bin\Debug\Crypto.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\bin\Debug\Crypto.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\obj\Debug\Crypto.Form1.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\obj\Debug\Crypto.Properties.Resources.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\obj\Debug\Crypto.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\obj\Debug\Crypto.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\obj\Debug\Crypto.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache

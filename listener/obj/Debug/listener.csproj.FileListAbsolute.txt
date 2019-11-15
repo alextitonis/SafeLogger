@@ -1,0 +1,5 @@
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\bin\Debug\listener.dll
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\bin\Debug\listener.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\obj\Debug\listener.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\obj\Debug\listener.dll
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\obj\Debug\listener.pdb

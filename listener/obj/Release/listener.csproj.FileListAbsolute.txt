@@ -1,0 +1,6 @@
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\bin\Release\listener.dll
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\bin\Release\listener.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\obj\Release\listener.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\obj\Release\listener.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\obj\Release\listener.dll
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\listener\obj\Release\listener.pdb

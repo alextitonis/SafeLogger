@@ -1,0 +1,26 @@
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Safe Logger.exe.config
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Safe Logger.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Safe Logger.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe_Logger.Form1.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe_Logger.Properties.Resources.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.exe
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.pdb
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe_Logger.Main.resources
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csproj.CopyComplete
+C:\Users\alex\Desktop\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Safe Logger.exe.config
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Safe Logger.exe
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Safe Logger.pdb
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csprojAssemblyReference.cache
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe_Logger.Form1.resources
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe_Logger.Main.resources
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe_Logger.Properties.Resources.resources
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csproj.GenerateResource.cache
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csproj.CoreCompileInputs.cache
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.csproj.CopyComplete
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.exe
+C:\Users\user1\Projects\C#\Safe Logger\Safe Logger\obj\Debug\Safe Logger.pdb
